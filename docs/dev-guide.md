@@ -4,16 +4,14 @@ This readme contains guidance to help setup an environment to complete the task.
 
 ## Setup
 
-fork [[GitOps Task]](https://github.com/paulcarlton-ww) or fork it and clone your fork.
-
 ### Install Required Software
 
 This project requires the following software:
 
-    [flux](https://toolkit.fluxcd.io/)
+    flux
     helm
     kubectl
-    [kind](https://kind.sigs.k8s.io/docs/)
+    kind
     kubeseal
 
 You can install these using the 'setup.sh' script:
